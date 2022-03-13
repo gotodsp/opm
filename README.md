@@ -1,4 +1,5 @@
-目标：
+# 目标
+
 学习官方如何基于OpenResty和PostgreSQL开发Web项目
 1. 配置nginx.conf与Lua脚本联动
 2. 如何组织OpenResty工程代码结构
